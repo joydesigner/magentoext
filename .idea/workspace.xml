@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="413e2ca3-cde2-47bc-a31d-a3a3281b864e" name="Default" comment="change session from file to db">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="magentoext.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="magentoext" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Observer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/Model/Observer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="8" selection-start="838" selection-end="838" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="561">
+              <folding>
+                <element signature="e#6#88#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="0" selection-start="2240" selection-end="2240" vertical-scroll-proportion="-6.5384617" vertical-offset="663" max-vertical-offset="1241">
+              <folding>
+                <marker date="1406295722000" expanded="false" signature="1045:1091" placeholder="..." />
+                <marker date="1406295722000" expanded="true" signature="1092:1515" placeholder="..." />
+                <marker date="1406295722000" expanded="false" signature="1106:1154" placeholder="..." />
+                <marker date="1406295722000" expanded="true" signature="1155:1334" placeholder="..." />
+                <marker date="1406295722000" expanded="false" signature="1168:1267" placeholder="..." />
+                <marker date="1406295722000" expanded="true" signature="1268:1328" placeholder="..." />
+                <marker date="1406295722000" expanded="true" signature="1337:1509" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/etc/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="47" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="local.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/etc/local.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="33" selection-start="2052" selection-end="2052" vertical-scroll-proportion="0.623987" vertical-offset="533" max-vertical-offset="1224">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jason" />
+        <option value="Jasonfavicon " />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/code/local/Sharerails/Helloworld/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Sharerails_Helloworld.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/base/default/layout/local.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Sharerails/Helloworld/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/simple_page.phtml" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Foggyline_HappyHour.xml" />
+        <option value="$PROJECT_DIR$/app/.htaccess" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/includes/config.php" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Sharerails_PushMessage.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/Model/Observer.php" />
+        <option value="$PROJECT_DIR$/app/etc/local.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_CLASS_LAST_EXTENSION" value="phtml" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php5" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="462" />
+    <option name="y" value="314" />
+    <option name="width" value="1169" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magentoext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="etc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jzheng\Dropbox\magentoext" />
+      <recent name="C:\Users\jzheng\Dropbox\magentoext\var" />
+      <recent name="C:\Users\jzheng\Dropbox\magentoext\media" />
+      <recent name="C:\Users\jzheng\Dropbox\magentoext\app\etc\modules" />
+      <recent name="C:\Users\jzheng\Dropbox\magentoext\app\design\frontend\default\default\template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jzheng\Dropbox\magentoext\var" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="413e2ca3-cde2-47bc-a31d-a3a3281b864e" name="Default" comment="" />
+      <created>1404963024285</created>
+      <updated>1404963024285</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Magento Helloworld">
+      <created>1405404867022</created>
+      <updated>1405404867022</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Magento Helloworld">
+      <created>1405576355622</created>
+      <updated>1405576355622</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Magento Helloworld">
+      <created>1405579825240</created>
+      <updated>1405579825240</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Magento Helloworld">
+      <created>1405580066806</created>
+      <updated>1405580066806</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Magento Helloworld">
+      <created>1405643692511</created>
+      <updated>1405643692511</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Magento Helloworld">
+      <created>1405654356252</created>
+      <updated>1405654356252</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Magento Helloworld">
+      <created>1405657264209</created>
+      <updated>1405657264209</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Magento Helloworld">
+      <created>1405657877577</created>
+      <updated>1405657877577</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Magento Layout">
+      <created>1405662456728</created>
+      <updated>1405662456728</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Magento config viewer">
+      <created>1405665120955</created>
+      <updated>1405665120955</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Magento config viewer">
+      <created>1405665890061</created>
+      <updated>1405665890061</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Index page udpated, debug mode activated.">
+      <created>1406263238839</created>
+      <updated>1406263238839</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Index page udpated, debug mode activated.">
+      <created>1406264171973</created>
+      <updated>1406264171973</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Index page udpated, debug mode activated.">
+      <created>1406264297616</created>
+      <updated>1406264297616</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Index page udpated, debug mode activated.">
+      <created>1406265095155</created>
+      <updated>1406265095155</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Index page udpated, debug mode activated.">
+      <created>1406265458041</created>
+      <updated>1406265458041</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Index page udpated, debug mode activated.">
+      <created>1406265600278</created>
+      <updated>1406265600278</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Index page udpated, debug mode activated.">
+      <created>1406266015583</created>
+      <updated>1406266015583</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Index page udpated, debug mode activated.">
+      <created>1406266843480</created>
+      <updated>1406266843480</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Index page udpated, debug mode activated.">
+      <created>1406267894477</created>
+      <updated>1406267894477</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Index page udpated, debug mode activated.">
+      <created>1406267958730</created>
+      <updated>1406267958730</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Index page udpated, debug mode activated.">
+      <created>1406268001480</created>
+      <updated>1406268001480</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Index page udpated, debug mode activated.">
+      <created>1406268315168</created>
+      <updated>1406268315168</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add listener to cart adding item...">
+      <created>1406269024736</created>
+      <updated>1406269024736</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add listener to cart adding item...">
+      <created>1406269032624</created>
+      <updated>1406269032624</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add listener to cart adding item...">
+      <created>1406269141987</created>
+      <updated>1406269141987</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add listener to cart adding item...">
+      <created>1406269662981</created>
+      <updated>1406269662981</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add url">
+      <created>1406269862111</created>
+      <updated>1406269862111</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add url">
+      <created>1406271446495</created>
+      <updated>1406271446495</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add url">
+      <created>1406271554607</created>
+      <updated>1406271554607</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add url">
+      <created>1406523666381</created>
+      <updated>1406523666381</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add url">
+      <created>1406525237531</created>
+      <updated>1406525237531</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix one bug on cannot add product to cart">
+      <created>1406590172047</created>
+      <updated>1406590172047</updated>
+    </task>
+    <task id="LOCAL-00034" summary="favicon updates">
+      <created>1406592051495</created>
+      <updated>1406592051495</updated>
+    </task>
+    <task id="LOCAL-00035" summary="change session from file to db">
+      <created>1406606137153</created>
+      <updated>1406606137153</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="462" y="314" width="1169" height="774" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.49954996" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29972997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.5004501" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281493" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Magento Helloworld" />
+    <MESSAGE value="Magento Layout" />
+    <MESSAGE value="Magento config viewer" />
+    <MESSAGE value="Foggyline Happyhour" />
+    <MESSAGE value="Index page udpated, debug mode activated." />
+    <MESSAGE value="Add listener to cart adding item..." />
+    <MESSAGE value="add url" />
+    <MESSAGE value="fix one bug on cannot add product to cart" />
+    <MESSAGE value="favicon updates" />
+    <MESSAGE value="change session from file to db" />
+    <option name="LAST_COMMIT_MESSAGE" value="change session from file to db" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/Model/Observer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="29" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="561">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="47" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/Model/Observer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="80" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="425">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/Model/Observer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="80" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="442">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="2240" selection-end="2240" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="1241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="35" selection-start="1280" selection-end="1287" vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="2385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="35" selection-start="1280" selection-end="1287" vertical-scroll-proportion="0.0" vertical-offset="167" max-vertical-offset="2385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Admin/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Admin/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Admin/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/controllers/MoneybookersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.14310345" vertical-offset="83" max-vertical-offset="1581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/Phoenix_Moneybookers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="41" selection-start="871" selection-end="900" vertical-scroll-proportion="0.67783093" vertical-offset="0" max-vertical-offset="627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/directory.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1428" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.24401914" vertical-offset="153" max-vertical-offset="3366" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/paypal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.08133971" vertical-offset="51" max-vertical-offset="3536" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/dhl/logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/customer/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="421" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/catalog/category/1Column.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.7752443" vertical-offset="0" max-vertical-offset="614" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/etc/theme.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/Sharerails_PushMessage.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="31" selection-start="159" selection-end="159" vertical-scroll-proportion="0.1328125" vertical-offset="0" max-vertical-offset="640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="21" selection-end="21" vertical-scroll-proportion="0.04197531" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/Model/Observer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="8" selection-start="838" selection-end="838" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="561">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Varien/Simplexml/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-13.615917" vertical-offset="7870" max-vertical-offset="9979">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/log/system.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="35" selection-start="1280" selection-end="1287" vertical-scroll-proportion="0.22852512" vertical-offset="505" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Admin/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="-1.7828201" vertical-offset="1100" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="0" selection-start="2240" selection-end="2240" vertical-scroll-proportion="-6.5384617" vertical-offset="663" max-vertical-offset="1241">
+          <folding>
+            <marker date="1406295722000" expanded="false" signature="1045:1091" placeholder="..." />
+            <marker date="1406295722000" expanded="true" signature="1092:1515" placeholder="..." />
+            <marker date="1406295722000" expanded="false" signature="1106:1154" placeholder="..." />
+            <marker date="1406295722000" expanded="true" signature="1155:1334" placeholder="..." />
+            <marker date="1406295722000" expanded="false" signature="1168:1267" placeholder="..." />
+            <marker date="1406295722000" expanded="true" signature="1268:1328" placeholder="..." />
+            <marker date="1406295722000" expanded="true" signature="1337:1509" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Sharerails/PushMessage/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="47" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/local.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="33" selection-start="2052" selection-end="2052" vertical-scroll-proportion="0.623987" vertical-offset="533" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
